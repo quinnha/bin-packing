@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+__pycache__/
+.coverage
+.DS_Store
+test*.*
+.vscode/
